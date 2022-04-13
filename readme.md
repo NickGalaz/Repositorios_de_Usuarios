@@ -1,4 +1,4 @@
-# Desafío: Obtener información y repositorios Github de usuarios
+# Desafío: Obtener Información y Repositorios Github de Usuarios
 
 ### Módulo 3
 ### Programación Avanzada en JavaScript
